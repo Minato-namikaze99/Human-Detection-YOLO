@@ -1,0 +1,7 @@
+Pre Deployment 
+    1. pip install flask
+    2. pip install opencv-python
+    3. pip install Pillow
+    4. pip install ultralytics==8.0.9
+    5. git clone https://github.com/ultralytics/ultralytics
+    6. pip install -qe ultralytics
