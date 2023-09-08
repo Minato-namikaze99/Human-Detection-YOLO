@@ -75,5 +75,6 @@ By default, the flask app executes in the IP address "http://127.0.0.1:5000/obje
 
 ## References
 I referred to the following links while creating this model, 
+
     1. https://www.youtube.com/watch?v=8SQcB2g_cp4
     2. https://python.plainenglish.io/develop-your-machine-learning-api-for-image-object-detection-yolov8-with-python-flask-api-f393cb7e1e43
